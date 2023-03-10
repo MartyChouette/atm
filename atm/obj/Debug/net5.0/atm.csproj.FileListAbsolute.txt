@@ -1,0 +1,16 @@
+D:\atm\atm\bin\Debug\net5.0\atm.exe
+D:\atm\atm\bin\Debug\net5.0\atm.deps.json
+D:\atm\atm\bin\Debug\net5.0\atm.runtimeconfig.json
+D:\atm\atm\bin\Debug\net5.0\atm.runtimeconfig.dev.json
+D:\atm\atm\bin\Debug\net5.0\atm.dll
+D:\atm\atm\bin\Debug\net5.0\ref\atm.dll
+D:\atm\atm\bin\Debug\net5.0\atm.pdb
+D:\atm\atm\obj\Debug\net5.0\atm.csproj.AssemblyReference.cache
+D:\atm\atm\obj\Debug\net5.0\atm.GeneratedMSBuildEditorConfig.editorconfig
+D:\atm\atm\obj\Debug\net5.0\atm.AssemblyInfoInputs.cache
+D:\atm\atm\obj\Debug\net5.0\atm.AssemblyInfo.cs
+D:\atm\atm\obj\Debug\net5.0\atm.csproj.CoreCompileInputs.cache
+D:\atm\atm\obj\Debug\net5.0\atm.dll
+D:\atm\atm\obj\Debug\net5.0\ref\atm.dll
+D:\atm\atm\obj\Debug\net5.0\atm.pdb
+D:\atm\atm\obj\Debug\net5.0\atm.genruntimeconfig.cache
